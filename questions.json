@@ -5,5 +5,194 @@
     "options": [2, 3, 4, 5],
     "answer": 4,
     "difficulty": "easy"
+  },
+  {
+    "category": "Math",
+    "question": "What is the square root of 16?",
+    "options": [2, 4, 8, 16],
+    "answer": 4,
+    "difficulty": "easy"
+  },
+  {
+    "category": "Science",
+    "question": "What planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "NaCl"],
+    "answer": "H2O",
+    "difficulty": "easy"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+    "answer": "George Washington",
+    "difficulty": "easy"
+  },
+  {
+    "category": "History",
+    "question": "In which year did World War II end?",
+    "options": [1942, 1945, 1948, 1950],
+    "answer": 1945,
+    "difficulty": "medium"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": "Paris",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Math",
+    "question": "What is 10 divided by 2?",
+    "options": [2, 3, 4, 5],
+    "answer": 5,
+    "difficulty": "easy"
+  },
+  {
+    "category": "Science",
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Carbon Dioxide",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Math",
+    "question": "What is the derivative of x^2?",
+    "options": ["x", "2x", "x^2", "2"],
+    "answer": "2x",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Math",
+    "question": "What is the integral of 1/x?",
+    "options": ["ln(x)", "x", "1/x", "e^x"],
+    "answer": "ln(x)",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Science",
+    "question": "What is the atomic number of carbon?",
+    "options": [6, 8, 12, 14],
+    "answer": 6,
+    "difficulty": "medium"
+  },
+  {
+    "category": "Science",
+    "question": "What is the speed of light in vacuum?",
+    "options": ["3 x 10^8 m/s", "3 x 10^6 m/s", "3 x 10^5 m/s", "3 x 10^7 m/s"],
+    "answer": "3 x 10^8 m/s",
+    "difficulty": "medium"
+  },
+  {
+    "category": "History",
+    "question": "Who was the 16th President of the United States?",
+    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "answer": "Abraham Lincoln",
+    "difficulty": "medium"
+  },
+  {
+    "category": "History",
+    "question": "In which year did the Berlin Wall fall?",
+    "options": [1987, 1988, 1989, 1990],
+    "answer": 1989,
+    "difficulty": "medium"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the longest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "answer": "Nile River",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country has the largest population?",
+    "options": ["India", "USA", "China", "Russia"],
+    "answer": "China",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Math",
+    "question": "What is the value of pi to 5 decimal places?",
+    "options": ["3.14159", "3.14149", "3.14169", "3.14179"],
+    "answer": "3.14159",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Math",
+    "question": "What is the solution to the equation x^2 - 4x + 4 = 0?",
+    "options": [0, 2, 4, -2],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical formula for glucose?",
+    "options": ["C6H12O6", "C12H22O11", "C2H5OH", "CH4"],
+    "answer": "C6H12O6",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Science",
+    "question": "What is the second law of thermodynamics?",
+    "options": ["Energy cannot be created or destroyed", "Entropy of an isolated system always increases", "For every action, there is an equal and opposite reaction", "The total energy of an isolated system is constant"],
+    "answer": "Entropy of an isolated system always increases",
+    "difficulty": "hard"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first emperor of China?",
+    "options": ["Qin Shi Huang", "Liu Bang", "Kublai Khan", "Sun Yat-sen"],
+    "answer": "Qin Shi Huang",
+    "difficulty": "hard"
+  },
+  {
+    "category": "History",
+    "question": "In which year did the Titanic sink?",
+    "options": [1910, 1912, 1914, 1916],
+    "answer": 1912,
+    "difficulty": "hard"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the smallest country in the world?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "answer": "Vatican City",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Geography",
+    "question": "Which desert is the largest in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctic Desert"],
+    "answer": "Antarctic Desert",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Math",
+    "question": "What is the value of e to 5 decimal places?",
+    "options": ["2.71828", "2.71818", "2.71838", "2.71848"],
+    "answer": "2.71828",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Science",
+    "question": "What is the most abundant gas in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Nitrogen",
+    "difficulty": "hard"
   }
 ]
